@@ -4,7 +4,7 @@ The website for Our Future Agency (OFA), a small design studio.
 
 ## Context
 
-- This project lives in `projects/ofa/website/`. Other OFA projects sit alongside it in `projects/ofa/`.
+- This project lives in `projects/ofa/ofa-website/`. Other OFA projects sit alongside it in `projects/ofa/`.
 - The remote repo name is `ofa-website`.
 
 ## Stack

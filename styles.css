@@ -2,3 +2,22 @@ body {
   font-family: sans-serif;
   margin: 2rem;
 }
+
+header, nav {outline: 1px solid magenta;}
+
+header {
+  display: flex;
+  justify-content: space-between; // Put leftover space between the children, so the first sits at the left edge and the second sits are the right edge
+
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 2rem;
+}
+
+
+
