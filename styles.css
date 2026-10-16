@@ -3,7 +3,7 @@ body {
   margin: 2rem;
 }
 
-header, nav {outline: 1px solid magenta;}
+header, nav {}
 
 header {
   display: flex;
