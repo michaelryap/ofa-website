@@ -32,13 +32,14 @@ jobs:
       - name: Commit changed pages
         id: commit
         run: |
-          if git diff --quiet -- '*.html'; then
+          # New and removed pages count as changes too
+          if [ -z "$(git status --porcelain -- '*.html')" ]; then
             echo "No page changes."
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add -- '*.html'
+            git add -A -- '*.html'
             git commit -m "Build pages from Google Doc"
             git push
             echo "changed=true" >> "$GITHUB_OUTPUT"

@@ -7,8 +7,13 @@ Reads content/copy.json (the doc, as the Google Docs API returns it) and
 content/media.json (alt text and sizes for images and videos), and rewrites
 one HTML page per page in the doc. The rules follow the doc's README:
 
-- A Heading 1 starts a page. "[Home]" in brackets is a label and isn't shown;
-  "Pussypedia" without brackets is shown as the page's <h1>.
+- A Heading 1 starts a page. "[Pussypedia]" in brackets is a label: it sets
+  the page's web address (pussypedia.html) and isn't shown. A plain Heading 1
+  straight after it is the title shown on the page; without one, the label is
+  the title. A plain Heading 1 with no label above it does both jobs.
+- Pages that are no longer in the doc are removed.
+- If an image or video file is missing, nothing is written and the script
+  exits with an error, so a broken page never reaches the site.
 - A Heading 2 starts a section. In brackets it's a label; without, an <h2>.
 - Other headings without brackets keep their level. Headings in brackets,
   paragraphs that are entirely italic (prompts for the writer) and horizontal
@@ -37,10 +42,16 @@ NAV = [("Work", "work.html"), ("About", "about.html"), ("Contact", "contact.html
 GENERATED_NOTE = "<!-- Generated from the OFA Website Copy Google Doc by scripts/build-pages.py. Edit the doc, not this file. -->"
 
 warnings = []
+errors = []  # problems that would put a broken page on the site
+page_files = set()  # every page the doc defines, for linking
 
 
 def warn(message):
     warnings.append(message)
+
+
+def error(message):
+    errors.append(message)
 
 
 def slugify(text):
@@ -204,7 +215,15 @@ def split_pages(paragraphs):
         text = p.text
         if level == 1 and text:
             skipping = text == "[README]"
-            if not skipping:
+            if skipping:
+                continue
+            # A plain Heading 1 straight after a page's label is that page's
+            # title, so retitling a page doesn't change its web address
+            current = pages[-1] if pages else None
+            if (not is_label(text) and current and current.heading is None
+                    and not current.blocks and not current.sections):
+                current.heading = text
+            else:
                 pages.append(Page(unlabel(text), None if is_label(text) else text))
             continue
         if skipping or not pages:
@@ -228,7 +247,7 @@ def render_media(kind, filename, page, media, indent):
     folder = "images" if kind == "image" else "videos"
     src = f"assets/{folder}/{page.slug}/{filename}"
     if not (ROOT / src).exists():
-        warn(f"Missing file {src}, placed by [{kind}: {filename}] on the {page.name} page")
+        error(f"Missing file {src}, placed by [{kind}: {filename}] on the {page.name} page")
     size = ""
     if "width" in info and "height" in info:
         size = f' width="{info["width"]}" height="{info["height"]}"'
@@ -346,7 +365,12 @@ def render_blocks(paragraphs, page, footnotes, media, indent, projects=None):
     if projects:
         lines.append(f"{indent}<ul>")
         for name in projects:
-            lines.append(f'{indent}  <li><a href="{page_filename(name)}">{html.escape(name, quote=False)}</a></li>')
+            escaped = html.escape(name, quote=False)
+            if page_filename(name) in page_files:
+                lines.append(f'{indent}  <li><a href="{page_filename(name)}">{escaped}</a></li>')
+            else:
+                warn(f"No page in the doc for the project \"{name}\", so it isn't linked")
+                lines.append(f"{indent}  <li>{escaped}</li>")
         lines.append(f"{indent}</ul>")
     return lines
 
@@ -424,15 +448,29 @@ def main():
     media = json.loads((ROOT / "content" / "media.json").read_text())
     out_dir = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT
 
-    for page in split_pages(read_paragraphs(document)):
-        path = out_dir / page.filename
-        path.write_text(render_page(page, document, media))
-        print(f"Wrote {path.relative_to(out_dir) if out_dir == ROOT else path}")
+    pages = split_pages(read_paragraphs(document))
+    page_files.update(page.filename for page in pages)
+    rendered = {page.filename: render_page(page, document, media) for page in pages}
 
-    # On GitHub, "::warning::" shows the message as an alert on the Actions run
-    prefix = "::warning::" if os.environ.get("GITHUB_ACTIONS") else "Warning: "
+    # On GitHub, "::warning::" and "::error::" show as alerts on the Actions run
+    on_github = os.environ.get("GITHUB_ACTIONS")
     for message in warnings:
-        print(f"{prefix}{message}", file=sys.stderr)
+        print(f"{'::warning::' if on_github else 'Warning: '}{message}", file=sys.stderr)
+    if errors:
+        for message in errors:
+            print(f"{'::error::' if on_github else 'Error: '}{message}", file=sys.stderr)
+        print("Nothing was written, so the site stays as it was.", file=sys.stderr)
+        sys.exit(1)
+
+    for filename, page_html in rendered.items():
+        (out_dir / filename).write_text(page_html)
+        print(f"Wrote {filename}")
+
+    # A generated page whose page is no longer in the doc is removed
+    for path in sorted(out_dir.glob("*.html")):
+        if path.name not in page_files and GENERATED_NOTE in path.read_text():
+            path.unlink()
+            print(f"Removed {path.name}")
 
 
 if __name__ == "__main__":
