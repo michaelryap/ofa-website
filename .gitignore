@@ -1,1 +1,4 @@
 .DS_Store
+
+# Full-size image and video exports stay on this Mac; only web versions are committed
+assets/originals/
