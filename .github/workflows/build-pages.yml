@@ -1,0 +1,52 @@
+# Rebuilds the HTML pages whenever a new snapshot of the Google Doc arrives
+# (from the doc's OFA > Publish to staging menu), then asks GitHub Pages to
+# publish them.
+
+name: Build pages from Google Doc
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - content/**
+      - scripts/build-pages.py
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: build-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build pages
+        run: python3 scripts/build-pages.py
+
+      - name: Commit changed pages
+        id: commit
+        run: |
+          if git diff --quiet -- '*.html'; then
+            echo "No page changes."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -- '*.html'
+            git commit -m "Build pages from Google Doc"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Pushes made by this workflow don't start a Pages build by themselves
+      - name: Publish to GitHub Pages
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds"

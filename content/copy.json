@@ -1,0 +1,6941 @@
+{
+ "documentId": "1oxP2HeqHUa06n0auhjjvppsjOOUO-EJTb7n0cZ4PAgo",
+ "title": "OFA Website Copy",
+ "revisionId": "AHj4eMQMnXOOfN4RON1hSxgtgd_KaJykpSzrxC2BVMQOsQixKNpYccWPEl4X8iMHYkPyH32rjxJYc0KPzgfzO-9pon1YslF97dz08KZTeMA",
+ "body": {
+  "content": [
+   {
+    "endIndex": 1,
+    "sectionBreak": {
+     "sectionStyle": {
+      "columnSeparatorStyle": "NONE",
+      "contentDirection": "LEFT_TO_RIGHT",
+      "sectionType": "CONTINUOUS"
+     }
+    }
+   },
+   {
+    "endIndex": 10,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 10,
+       "startIndex": 1,
+       "textRun": {
+        "content": "[README]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.q2fnzsv9lj8z",
+      "namedStyleType": "HEADING_1"
+     }
+    },
+    "startIndex": 1
+   },
+   {
+    "endIndex": 11,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 11,
+       "startIndex": 10,
+       "textRun": {
+        "content": "\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 10
+   },
+   {
+    "endIndex": 18,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 18,
+       "startIndex": 11,
+       "textRun": {
+        "content": "How-to\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.rt1crc4afr3q",
+      "namedStyleType": "HEADING_2"
+     }
+    },
+    "startIndex": 11
+   },
+   {
+    "endIndex": 19,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 19,
+       "startIndex": 18,
+       "textRun": {
+        "content": "\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 18
+   },
+   {
+    "endIndex": 952,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 952,
+       "startIndex": 19,
+       "textRun": {
+        "content": "This document holds the copy for the Our Future Agency website. Headings in square brackets are labels: each Heading 1 label, like [Home], is a page on the site, and each Heading 2 label, like [Intro], is a section on that page. Labels never appear on the site. A heading without brackets is copy, and appears on the site as a heading at the same level. Write in normal text under each heading. Bold, italics and links carry over to the site; fonts, sizes and colors do not, because the site's design sets those. Footnotes (Insert > Footnote) carry over too, and appear as numbered notes at the end of the page. For a quote, put the quote in quotation marks in its own paragraph, and the source on the next line starting with an em dash, like —Fast Company. Link the source's name to the article if there is one. Horizontal lines (Insert > Horizontal line) are fine for keeping this document readable; they don't appear on the site.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 19
+   },
+   {
+    "endIndex": 953,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 953,
+       "startIndex": 952,
+       "textRun": {
+        "content": "\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 952
+   },
+   {
+    "endIndex": 1102,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1102,
+       "startIndex": 953,
+       "textRun": {
+        "content": "Replace the notes in italics with the final copy. Use comments for questions, and suggestion mode when changing copy that has already been approved.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 953
+   },
+   {
+    "endIndex": 1103,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1103,
+       "startIndex": 1102,
+       "textRun": {
+        "content": "\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 1102
+   },
+   {
+    "endIndex": 1111,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1111,
+       "startIndex": 1103,
+       "textRun": {
+        "content": "Staging\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.sijhkp7rl721",
+      "namedStyleType": "HEADING_2"
+     }
+    },
+    "startIndex": 1103
+   },
+   {
+    "endIndex": 1112,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1112,
+       "startIndex": 1111,
+       "textRun": {
+        "content": "\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 1111
+   },
+   {
+    "endIndex": 1201,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1201,
+       "startIndex": 1112,
+       "textRun": {
+        "content": "The staging site can be viewed here: https://michaelryap.github.io/ofa-website/work.html\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 1112
+   },
+   {
+    "endIndex": 1202,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1202,
+       "startIndex": 1201,
+       "textRun": {
+        "content": "\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 1201
+   },
+   {
+    "endIndex": 1204,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1203,
+       "horizontalRule": {
+        "textStyle": {}
+       },
+       "startIndex": 1202
+      },
+      {
+       "endIndex": 1204,
+       "startIndex": 1203,
+       "textRun": {
+        "content": "\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 1202
+   },
+   {
+    "endIndex": 1205,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1205,
+       "startIndex": 1204,
+       "textRun": {
+        "content": "\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 1204
+   },
+   {
+    "endIndex": 1206,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1206,
+       "startIndex": 1205,
+       "textRun": {
+        "content": "\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 1205
+   },
+   {
+    "endIndex": 1213,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1213,
+       "startIndex": 1206,
+       "textRun": {
+        "content": "[Home]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "HEADING_1",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 1206
+   },
+   {
+    "endIndex": 1221,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1221,
+       "startIndex": 1213,
+       "textRun": {
+        "content": "[Intro]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "HEADING_2",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 1213
+   },
+   {
+    "endIndex": 1321,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1321,
+       "startIndex": 1221,
+       "textRun": {
+        "content": "Our Future Agency is a strategic design and development studio led by Zoe Mendelson and Michael Yap\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 1221
+   },
+   {
+    "endIndex": 1322,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1322,
+       "startIndex": 1321,
+       "textRun": {
+        "content": "\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 1321
+   },
+   {
+    "endIndex": 1329,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1329,
+       "startIndex": 1322,
+       "textRun": {
+        "content": "[Work]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "HEADING_1",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 1322
+   },
+   {
+    "endIndex": 1337,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1337,
+       "startIndex": 1329,
+       "textRun": {
+        "content": "[Intro]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "HEADING_2",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 1329
+   },
+   {
+    "endIndex": 1381,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1381,
+       "startIndex": 1337,
+       "textRun": {
+        "content": "A short line introducing the selected work.\n",
+        "textStyle": {
+         "italic": true
+        }
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceBelow": {
+       "magnitude": 11.25,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 1337
+   },
+   {
+    "endIndex": 1392,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1382,
+       "startIndex": 1381,
+       "textRun": {
+        "content": "[",
+        "textStyle": {}
+       }
+      },
+      {
+       "endIndex": 1392,
+       "startIndex": 1382,
+       "textRun": {
+        "content": "Projects]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "HEADING_2",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 1381
+   },
+   {
+    "endIndex": 1620,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1620,
+       "startIndex": 1392,
+       "textRun": {
+        "content": "Add one Heading 3 per project, in the order they should appear on the page. Under each, give the client or project name, the type of work (for example branding or web), the year, and one or two sentences describing the project.\n",
+        "textStyle": {
+         "italic": true
+        }
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 1392
+   },
+   {
+    "endIndex": 1631,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1630,
+       "startIndex": 1620,
+       "textRun": {
+        "content": "Pussypedia",
+        "textStyle": {}
+       }
+      },
+      {
+       "endIndex": 1631,
+       "startIndex": 1630,
+       "textRun": {
+        "content": "\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "HEADING_3",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 1620
+   },
+   {
+    "endIndex": 1651,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1651,
+       "startIndex": 1631,
+       "textRun": {
+        "content": "Type of work, year.\n",
+        "textStyle": {
+         "italic": true
+        }
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "shading": {
+       "backgroundColor": {}
+      }
+     }
+    },
+    "startIndex": 1631
+   },
+   {
+    "endIndex": 1672,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1672,
+       "startIndex": 1651,
+       "textRun": {
+        "content": "Project description.\n",
+        "textStyle": {
+         "italic": true
+        }
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 1651
+   },
+   {
+    "endIndex": 1684,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1684,
+       "startIndex": 1672,
+       "textRun": {
+        "content": "Milk Makeup\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.dfug3omp1xh7",
+      "namedStyleType": "HEADING_3",
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 1672
+   },
+   {
+    "endIndex": 1704,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1704,
+       "startIndex": 1684,
+       "textRun": {
+        "content": "Type of work, year.\n",
+        "textStyle": {
+         "italic": true
+        }
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceBelow": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 1684
+   },
+   {
+    "endIndex": 1725,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1725,
+       "startIndex": 1704,
+       "textRun": {
+        "content": "Project description.\n",
+        "textStyle": {
+         "italic": true
+        }
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 1704
+   },
+   {
+    "endIndex": 1750,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1750,
+       "startIndex": 1725,
+       "textRun": {
+        "content": "Art Institute of Chicago\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.dwf4ckbc4w86",
+      "namedStyleType": "HEADING_3",
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 1725
+   },
+   {
+    "endIndex": 1770,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1770,
+       "startIndex": 1750,
+       "textRun": {
+        "content": "Type of work, year.\n",
+        "textStyle": {
+         "italic": true
+        }
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceBelow": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 1750
+   },
+   {
+    "endIndex": 1791,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1791,
+       "startIndex": 1770,
+       "textRun": {
+        "content": "Project description.\n",
+        "textStyle": {
+         "italic": true
+        }
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 1770
+   },
+   {
+    "endIndex": 1792,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1792,
+       "startIndex": 1791,
+       "textRun": {
+        "content": "\n",
+        "textStyle": {
+         "italic": true
+        }
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 1791
+   },
+   {
+    "endIndex": 1793,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1793,
+       "startIndex": 1792,
+       "textRun": {
+        "content": "\n",
+        "textStyle": {
+         "italic": true
+        }
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 1792
+   },
+   {
+    "endIndex": 1795,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1794,
+       "horizontalRule": {
+        "textStyle": {
+         "italic": true
+        }
+       },
+       "startIndex": 1793
+      },
+      {
+       "endIndex": 1795,
+       "startIndex": 1794,
+       "textRun": {
+        "content": "\n",
+        "textStyle": {
+         "italic": true
+        }
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 1793
+   },
+   {
+    "endIndex": 1796,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1796,
+       "startIndex": 1795,
+       "textRun": {
+        "content": "\n",
+        "textStyle": {
+         "italic": true
+        }
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 1795
+   },
+   {
+    "endIndex": 1807,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1807,
+       "startIndex": 1796,
+       "textRun": {
+        "content": "Pussypedia\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.j9ihnzs44f0d",
+      "namedStyleType": "HEADING_1",
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 1796
+   },
+   {
+    "endIndex": 1863,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1863,
+       "startIndex": 1807,
+       "textRun": {
+        "content": "[image: mm-phone-ph-fddp-01-mask-corrected-pp-1366.jpg]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 1807
+   },
+   {
+    "endIndex": 1920,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1920,
+       "startIndex": 1863,
+       "textRun": {
+        "content": "[image: 08-iphone-15-pro-isometric-right-pp-01-2813.jpg]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 1863
+   },
+   {
+    "endIndex": 1929,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 1929,
+       "startIndex": 1920,
+       "textRun": {
+        "content": "Overview\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.yanari7eosu9",
+      "namedStyleType": "HEADING_2",
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 1920
+   },
+   {
+    "endIndex": 2017,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 2017,
+       "startIndex": 1929,
+       "textRun": {
+        "content": "The internet lacked verified, gender-inclusive, non-shaming information about pussies. \n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 1929
+   },
+   {
+    "endIndex": 2174,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 2174,
+       "startIndex": 2017,
+       "textRun": {
+        "content": "So we, in collaboration with artist and illustrator María Conejo, made a bilingual, inclusive, joyful, highly fact-checked sexual health editorial platform.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 2017
+   },
+   {
+    "endIndex": 2188,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.mpfpwnwxac3j",
+      "textStyle": {
+       "underline": false
+      }
+     },
+     "elements": [
+      {
+       "endIndex": 2188,
+       "startIndex": 2174,
+       "textRun": {
+        "content": "Site Visitors\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 2174
+   },
+   {
+    "endIndex": 2194,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.mpfpwnwxac3j",
+      "nestingLevel": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     "elements": [
+      {
+       "endIndex": 2194,
+       "startIndex": 2188,
+       "textRun": {
+        "content": "1.25M\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 54,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 72,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 2188
+   },
+   {
+    "endIndex": 2205,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.mpfpwnwxac3j",
+      "textStyle": {
+       "underline": false
+      }
+     },
+     "elements": [
+      {
+       "endIndex": 2205,
+       "startIndex": 2194,
+       "textRun": {
+        "content": "Page Views\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 2194
+   },
+   {
+    "endIndex": 2208,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.mpfpwnwxac3j",
+      "nestingLevel": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     "elements": [
+      {
+       "endIndex": 2208,
+       "startIndex": 2205,
+       "textRun": {
+        "content": "2M\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 54,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 72,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 2205
+   },
+   {
+    "endIndex": 2226,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.mpfpwnwxac3j",
+      "textStyle": {
+       "underline": false
+      }
+     },
+     "elements": [
+      {
+       "endIndex": 2226,
+       "startIndex": 2208,
+       "textRun": {
+        "content": "Visitor Retention\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 2208
+   },
+   {
+    "endIndex": 2230,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.mpfpwnwxac3j",
+      "nestingLevel": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     "elements": [
+      {
+       "endIndex": 2230,
+       "startIndex": 2226,
+       "textRun": {
+        "content": "70%\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 54,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 72,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 2226
+   },
+   {
+    "endIndex": 2255,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.mpfpwnwxac3j",
+      "textStyle": {}
+     },
+     "elements": [
+      {
+       "endIndex": 2255,
+       "startIndex": 2230,
+       "textRun": {
+        "content": "Kickstarter Pesos Raised\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 2230
+   },
+   {
+    "endIndex": 2264,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.mpfpwnwxac3j",
+      "nestingLevel": 1,
+      "textStyle": {}
+     },
+     "elements": [
+      {
+       "endIndex": 2262,
+       "startIndex": 2255,
+       "textRun": {
+        "content": "MX$423K",
+        "textStyle": {}
+       }
+      },
+      {
+       "endIndex": 2263,
+       "footnoteReference": {
+        "footnoteId": "kix.jmh8l8g6qi4q",
+        "footnoteNumber": "1",
+        "textStyle": {}
+       },
+       "startIndex": 2262
+      },
+      {
+       "endIndex": 2264,
+       "startIndex": 2263,
+       "textRun": {
+        "content": "\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 54,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 72,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 2255
+   },
+   {
+    "endIndex": 2284,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.mpfpwnwxac3j",
+      "textStyle": {}
+     },
+     "elements": [
+      {
+       "endIndex": 2284,
+       "startIndex": 2264,
+       "textRun": {
+        "content": "International Press\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 2264
+   },
+   {
+    "endIndex": 2288,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.mpfpwnwxac3j",
+      "nestingLevel": 1,
+      "textStyle": {}
+     },
+     "elements": [
+      {
+       "endIndex": 2288,
+       "startIndex": 2284,
+       "textRun": {
+        "content": "160\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 54,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 72,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 2284
+   },
+   {
+    "endIndex": 2308,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.mpfpwnwxac3j",
+      "textStyle": {}
+     },
+     "elements": [
+      {
+       "endIndex": 2308,
+       "startIndex": 2288,
+       "textRun": {
+        "content": "Instagram Followers\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 2288
+   },
+   {
+    "endIndex": 2312,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.mpfpwnwxac3j",
+      "nestingLevel": 1,
+      "textStyle": {}
+     },
+     "elements": [
+      {
+       "endIndex": 2312,
+       "startIndex": 2308,
+       "textRun": {
+        "content": "29K\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 54,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 72,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 2308
+   },
+   {
+    "endIndex": 2313,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 2313,
+       "startIndex": 2312,
+       "textRun": {
+        "content": "\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 2312
+   },
+   {
+    "endIndex": 2533,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 2533,
+       "startIndex": 2313,
+       "textRun": {
+        "content": "“This is the women’s health resource you’ve been missing your whole life. Say goodbye to frustrating Google searches about your personal health: A woman-led team has made a website that will answer all your questions.” \n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 2313
+   },
+   {
+    "endIndex": 2547,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 2547,
+       "startIndex": 2533,
+       "textRun": {
+        "content": "—Fast Company\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 2533
+   },
+   {
+    "endIndex": 2579,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 2579,
+       "startIndex": 2547,
+       "textRun": {
+        "content": "[image: webbystatue-2-1708.png]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 2547
+   },
+   {
+    "endIndex": 2625,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 2625,
+       "startIndex": 2579,
+       "textRun": {
+        "content": "[image: the-webby-awards-logo-black-1731.svg]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 2579
+   },
+   {
+    "endIndex": 2635,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 2635,
+       "startIndex": 2625,
+       "textRun": {
+        "content": "Situation\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.mlmv2snre0ml",
+      "namedStyleType": "HEADING_2",
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 2625
+   },
+   {
+    "endIndex": 2704,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 2704,
+       "startIndex": 2635,
+       "textRun": {
+        "content": "The internet lacked verified, non-shaming information about pussies.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.9d6erat4jwrb",
+      "namedStyleType": "HEADING_3"
+     }
+    },
+    "startIndex": 2635
+   },
+   {
+    "endIndex": 2994,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 2994,
+       "startIndex": 2704,
+       "textRun": {
+        "content": "Institutions with resources don’t often fund research about pussies. Of what little sexual health research exists, too much centers on male, cis, and heterosexual needs. Also, it is mostly inaccessible to most people. Science journals are written for scientists and locked behind paywalls.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 2704
+   },
+   {
+    "endIndex": 3214,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 3214,
+       "startIndex": 2994,
+       "textRun": {
+        "content": "In a vacuum of high-quality information, most of what we learn about our bodies comes from a misogynistic cultural legacy and from advertisers who capitalize on it by using shame to sell us products that often harm us. \n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 2994
+   },
+   {
+    "endIndex": 3317,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 3317,
+       "startIndex": 3214,
+       "textRun": {
+        "content": "As a result, pussies are stigmatized. People don’t know that their pussies are just fine how they are.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 3214
+   },
+   {
+    "endIndex": 3511,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 3511,
+       "startIndex": 3317,
+       "textRun": {
+        "content": "Ignorance and shame rob us of our agency over our bodies, our capacity to experience sexual pleasure, and too often, our self-worth. Knowledge is power. Knowledge is the tool to assert control.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 3317
+   },
+   {
+    "endIndex": 3646,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 3646,
+       "startIndex": 3511,
+       "textRun": {
+        "content": "We should, at the very least, have the power to control our own bodies. For that, we need a lot more access to information about them.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 3511
+   },
+   {
+    "endIndex": 3690,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 3690,
+       "startIndex": 3646,
+       "textRun": {
+        "content": "[image: margarita-fedorova-birth-10929.jpg]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 3646
+   },
+   {
+    "endIndex": 3691,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 3691,
+       "startIndex": 3690,
+       "textRun": {
+        "content": "\n",
+        "textStyle": {
+         "italic": true
+        }
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 3690
+   },
+   {
+    "endIndex": 3703,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 3703,
+       "startIndex": 3691,
+       "textRun": {
+        "content": "Fundraising\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.pf68uhc23wj2",
+      "namedStyleType": "HEADING_2",
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 3691
+   },
+   {
+    "endIndex": 3716,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 3716,
+       "startIndex": 3703,
+       "textRun": {
+        "content": "Complication\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.3lpifjbxr5fm",
+      "namedStyleType": "HEADING_3"
+     }
+    },
+    "startIndex": 3703
+   },
+   {
+    "endIndex": 3972,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 3972,
+       "startIndex": 3716,
+       "textRun": {
+        "content": "We applied for various grants to fund this project but were rejected for all of them—proving our hypothesis that the stigmatization of pussies leads to suppression of information about them. So we took to Kickstarter and fundraised from our own community.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 3716
+   },
+   {
+    "endIndex": 3983,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 3983,
+       "startIndex": 3972,
+       "textRun": {
+        "content": "Resolution\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.4sxyvdvb5ym3",
+      "namedStyleType": "HEADING_3"
+     }
+    },
+    "startIndex": 3972
+   },
+   {
+    "endIndex": 4450,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 4450,
+       "startIndex": 3983,
+       "textRun": {
+        "content": "Our Kickstarter raised $423,354 pesos out of an initial $160,000 peso goal. The Kickstarter involved the designing of merch and a massive social media content campaign for which we created original content and set up key partnerships with influencers, brands, organizations, and media outlets. After the Kickstarter fee, production, and shipping of prizes, we were left with about $16,000 USD to create the site, which was still a tiny budget for our ambitious plan.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 3983
+   },
+   {
+    "endIndex": 4503,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 4503,
+       "startIndex": 4450,
+       "textRun": {
+        "content": "[image: kickstarter-desktop-above-the-fold-2858.jpg]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 4450
+   },
+   {
+    "endIndex": 4504,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 4504,
+       "startIndex": 4503,
+       "textRun": {
+        "content": "\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 4503
+   },
+   {
+    "endIndex": 4529,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 4529,
+       "startIndex": 4504,
+       "textRun": {
+        "content": "Information Architecture\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.9crdq67qth9b",
+      "namedStyleType": "HEADING_2"
+     }
+    },
+    "startIndex": 4504
+   },
+   {
+    "endIndex": 4542,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 4542,
+       "startIndex": 4529,
+       "textRun": {
+        "content": "Complication\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.p9oyta872zq3",
+      "namedStyleType": "HEADING_3"
+     }
+    },
+    "startIndex": 4529
+   },
+   {
+    "endIndex": 4679,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 4679,
+       "startIndex": 4542,
+       "textRun": {
+        "content": "We wanted to provide an accessible, intuitive reading experience that aligned with Pussypedia’s mission. We wanted people to be able to:\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 4542
+   },
+   {
+    "endIndex": 4728,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.5b7umpvyt5c1",
+      "textStyle": {}
+     },
+     "elements": [
+      {
+       "endIndex": 4728,
+       "startIndex": 4679,
+       "textRun": {
+        "content": "Easily search a library to find specific answers\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 4679
+   },
+   {
+    "endIndex": 4774,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.5b7umpvyt5c1",
+      "textStyle": {}
+     },
+     "elements": [
+      {
+       "endIndex": 4774,
+       "startIndex": 4728,
+       "textRun": {
+        "content": "Learn when they didn’t know they didn’t know \n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 4728
+   },
+   {
+    "endIndex": 4785,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 4785,
+       "startIndex": 4774,
+       "textRun": {
+        "content": "Resolution\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.271euhpv6vk4",
+      "namedStyleType": "HEADING_3"
+     }
+    },
+    "startIndex": 4774
+   },
+   {
+    "endIndex": 4964,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 4964,
+       "startIndex": 4785,
+       "textRun": {
+        "content": "For our writer’s guide, we used hypertext to create an experience where users could seamlessly navigate between articles and efficiently search the database for relevant content.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 4785
+   },
+   {
+    "endIndex": 5392,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 5392,
+       "startIndex": 4964,
+       "textRun": {
+        "content": "Applying principles of information architecture—the practice of organizing content to make it understandable—we first identified the key types of content that would form the foundation of the reading experience. These were the raw materials of the site, ranging from an interactive 3D model of a pussy that allows visitors to explore anatomy and function, to an outline of the core topics the publication would cover at launch.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 4964
+   },
+   {
+    "endIndex": 5765,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 5765,
+       "startIndex": 5392,
+       "textRun": {
+        "content": "Creating a content inventory allowed us to structure the material in a way that made sense both for the writers developing the content and for the interface that would guide readers through it. To visualize the site’s organization, we created both a content outline and a site map, ensuring the information architecture supported intuitive navigation and discoverability.\u000b\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 5392
+   },
+   {
+    "endIndex": 5789,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 5789,
+       "startIndex": 5765,
+       "textRun": {
+        "content": "[image: site-index.jpg]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 5765
+   },
+   {
+    "endIndex": 5811,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 5811,
+       "startIndex": 5789,
+       "textRun": {
+        "content": "[image: site-map.jpg]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 5789
+   },
+   {
+    "endIndex": 5824,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 5824,
+       "startIndex": 5811,
+       "textRun": {
+        "content": "Article View\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.ncehzfarrngt",
+      "namedStyleType": "HEADING_2",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 5811
+   },
+   {
+    "endIndex": 5861,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 5861,
+       "startIndex": 5824,
+       "textRun": {
+        "content": "[video: vaginal-steaming-scroll.mp4]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 5824
+   },
+   {
+    "endIndex": 5882,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 5882,
+       "startIndex": 5861,
+       "textRun": {
+        "content": "Interactive 3D Model\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.fxn73nzcflkz",
+      "namedStyleType": "HEADING_2",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 5861
+   },
+   {
+    "endIndex": 5912,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 5912,
+       "startIndex": 5882,
+       "textRun": {
+        "content": "[video: 3d-model-desktop.mp4]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 5882
+   },
+   {
+    "endIndex": 5933,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 5933,
+       "startIndex": 5912,
+       "textRun": {
+        "content": "Interactive 3D Model\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.5d8hz222tcc4",
+      "namedStyleType": "HEADING_2",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 5912
+   },
+   {
+    "endIndex": 5962,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 5962,
+       "startIndex": 5933,
+       "textRun": {
+        "content": "[video: 3d-model-mobile.mp4]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 5933
+   },
+   {
+    "endIndex": 5987,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 5987,
+       "startIndex": 5962,
+       "textRun": {
+        "content": "Crowd-sourced & Verified\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.6axw2224sg74",
+      "namedStyleType": "HEADING_2",
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 5962
+   },
+   {
+    "endIndex": 6036,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 6036,
+       "startIndex": 5987,
+       "textRun": {
+        "content": "[image: peculiar-c01-1-tucked-phone-pp-2593.jpg]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 5987
+   },
+   {
+    "endIndex": 6049,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 6049,
+       "startIndex": 6036,
+       "textRun": {
+        "content": "Complication\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.6gj00ylpkayv",
+      "namedStyleType": "HEADING_3"
+     }
+    },
+    "startIndex": 6036
+   },
+   {
+    "endIndex": 6173,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 6173,
+       "startIndex": 6049,
+       "textRun": {
+        "content": "We wanted to create a crowd-sourcing system to democratize scientific literature with a rigorous fact-checking methodology.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 6049
+   },
+   {
+    "endIndex": 6184,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 6184,
+       "startIndex": 6173,
+       "textRun": {
+        "content": "Resolution\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.9g1n10bsfaw8",
+      "namedStyleType": "HEADING_3"
+     }
+    },
+    "startIndex": 6173
+   },
+   {
+    "endIndex": 6885,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 6885,
+       "startIndex": 6184,
+       "textRun": {
+        "content": "For our writer’s guide, we worked with a partner at Harvard T.H. Chan School of Public Health to create a series of guidelines on how to do scientific health research, how to evaluate study design to determine how much weight to give any particular scientific study while researching, and how to write science without overstating conclusions. The guide was in English and Spanish, since content was created in both languages and then translated, so translators would need the same instructions. We also created a process where writers pasted each paraphrased sentence into a comment on a Google Doc that would later be fact checked by medical professionals who could cross check sentence by sentence.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 6184
+   },
+   {
+    "endIndex": 6899,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 6899,
+       "startIndex": 6885,
+       "textRun": {
+        "content": "Accessibility\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.y1pahdghyhq",
+      "namedStyleType": "HEADING_2",
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 6885
+   },
+   {
+    "endIndex": 6912,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 6912,
+       "startIndex": 6899,
+       "textRun": {
+        "content": "Complication\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.wexvjd5xtjsv",
+      "namedStyleType": "HEADING_3"
+     }
+    },
+    "startIndex": 6899
+   },
+   {
+    "endIndex": 6992,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 6992,
+       "startIndex": 6912,
+       "textRun": {
+        "content": "We wanted the platform to be accessible regardless of device or connectivity.  \n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 6912
+   },
+   {
+    "endIndex": 7121,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 7121,
+       "startIndex": 6992,
+       "textRun": {
+        "content": "We hoped to serve users with varying levels of internet access, constrained by hardware limitations and regional infrastructure.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 6992
+   },
+   {
+    "endIndex": 7133,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 7133,
+       "startIndex": 7121,
+       "textRun": {
+        "content": "Resolution \n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.4meur324eni6",
+      "namedStyleType": "HEADING_3"
+     }
+    },
+    "startIndex": 7121
+   },
+   {
+    "endIndex": 7243,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 7243,
+       "startIndex": 7133,
+       "textRun": {
+        "content": "To support this, we made intentional art direction decisions to reduce page weight for improved performance. \n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 7133
+   },
+   {
+    "endIndex": 7564,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 7564,
+       "startIndex": 7243,
+       "textRun": {
+        "content": "We featured flat-style illustrations with a limited color palette, avoiding gradients. On the web, color depth determines how many colors can be displayed in an image, directly affecting file size. Flat illustrations require lower color depth, meaning fewer bytes per pixel and smaller file sizes, improving load speeds.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 7243
+   },
+   {
+    "endIndex": 7895,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 7895,
+       "startIndex": 7564,
+       "textRun": {
+        "content": "Traditional editorial design—like The New York Times or Time Magazine—prioritizes dense layouts to fit as much content “above the fold” as possible. These layouts often use multiple typefaces, intricate styling, and complex grid structures, increasing the amount of style data required for rendering. We took a different approach:\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 7564
+   },
+   {
+    "endIndex": 7936,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.vrgpsu2ow3b3",
+      "textStyle": {
+       "underline": false
+      }
+     },
+     "elements": [
+      {
+       "endIndex": 7936,
+       "startIndex": 7895,
+       "textRun": {
+        "content": "Our layouts were simple and uncluttered.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 7895
+   },
+   {
+    "endIndex": 8014,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.vrgpsu2ow3b3",
+      "textStyle": {
+       "underline": false
+      }
+     },
+     "elements": [
+      {
+       "endIndex": 8014,
+       "startIndex": 7936,
+       "textRun": {
+        "content": "Our typography relied only on size variations, minimizing unnecessary styles.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 7936
+   },
+   {
+    "endIndex": 8159,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 8159,
+       "startIndex": 8014,
+       "textRun": {
+        "content": "Small design choices like these cumulatively reduced page load times and file sizes, ensuring a faster, more efficient experience for all users.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 8014
+   },
+   {
+    "endIndex": 8198,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 8198,
+       "startIndex": 8159,
+       "textRun": {
+        "content": "[image: masturbation-as-self-care.jpg]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 8159
+   },
+   {
+    "endIndex": 8211,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 8211,
+       "startIndex": 8198,
+       "textRun": {
+        "content": "Complication\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.wyp4a2klyyao",
+      "namedStyleType": "HEADING_3"
+     }
+    },
+    "startIndex": 8198
+   },
+   {
+    "endIndex": 8266,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 8266,
+       "startIndex": 8211,
+       "textRun": {
+        "content": "We wanted the site to serve a larger global audience. \n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 8211
+   },
+   {
+    "endIndex": 8371,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 8371,
+       "startIndex": 8266,
+       "textRun": {
+        "content": "There was little quality information about pussies on the internet in English, but even less in Spanish.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 8266
+   },
+   {
+    "endIndex": 8382,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 8382,
+       "startIndex": 8371,
+       "textRun": {
+        "content": "Resolution\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.pvjoua76sk41",
+      "namedStyleType": "HEADING_3"
+     }
+    },
+    "startIndex": 8371
+   },
+   {
+    "endIndex": 8895,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 8895,
+       "startIndex": 8382,
+       "textRun": {
+        "content": " We made the site fully bilingual, automatically changing language based on where visitors’ IP addresses located them. All articles were translated into Spanish or written in Spanish and translated to English with a network of global volunteer translators and editors. We also built and vetted a separate resource portal for resources in Spanish. Many of the articles have also been translated into French with links posted at the bottoms of the articles as well as a partner site that published the French work.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 8382
+   },
+   {
+    "endIndex": 8932,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 8932,
+       "startIndex": 8895,
+       "textRun": {
+        "content": "[image: language-selector-10816.png]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 8895
+   },
+   {
+    "endIndex": 8991,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 8991,
+       "startIndex": 8932,
+       "textRun": {
+        "content": "[image: pussypedia-net-tags-abbreviated-spanish-10053.jpg]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 8932
+   },
+   {
+    "endIndex": 9004,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 9004,
+       "startIndex": 8991,
+       "textRun": {
+        "content": "Complication\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.ap2ulwapmqyn",
+      "namedStyleType": "HEADING_3"
+     }
+    },
+    "startIndex": 8991
+   },
+   {
+    "endIndex": 9023,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 9023,
+       "startIndex": 9004,
+       "textRun": {
+        "content": "Shame as a barrier\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.t83rn4mksmv1",
+      "namedStyleType": "HEADING_4"
+     }
+    },
+    "startIndex": 9004
+   },
+   {
+    "endIndex": 9236,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 9236,
+       "startIndex": 9023,
+       "textRun": {
+        "content": "We believe that shame is a barrier to learning. Most information about pussies on the internet uses euphemisms, overly-scientific terminology, or shaming/blaming language that makes absorbing information harder. \n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 9023
+   },
+   {
+    "endIndex": 9248,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 9248,
+       "startIndex": 9236,
+       "textRun": {
+        "content": "Resolution \n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.tmv7k7pqvzry",
+      "namedStyleType": "HEADING_3"
+     }
+    },
+    "startIndex": 9236
+   },
+   {
+    "endIndex": 9577,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 9577,
+       "startIndex": 9248,
+       "textRun": {
+        "content": "We made our content as joyful and frank as possible. We used humor, slang, and 2nd-person language to create warmth to help people learn without shame. We also used the illustrations to make the mood of the entire site celebratory and fun. For example, the herpes illustration is a bunch of cute little herpes in a herpes hotel.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 9248
+   },
+   {
+    "endIndex": 9670,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 9670,
+       "startIndex": 9577,
+       "textRun": {
+        "content": "[image: 85b354471b38cce8598b2277cfd40fb3bbcb9fcc-0029-illo-herpes-hero-landscape-11005.avif]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 9577
+   },
+   {
+    "endIndex": 9721,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 9721,
+       "startIndex": 9670,
+       "textRun": {
+        "content": "Balancing scientific accuracy and human expression\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.mkvxopb0t67p",
+      "namedStyleType": "HEADING_2",
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 9670
+   },
+   {
+    "endIndex": 9734,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 9734,
+       "startIndex": 9721,
+       "textRun": {
+        "content": "Complication\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.axi6f5j823ky",
+      "namedStyleType": "HEADING_3"
+     }
+    },
+    "startIndex": 9721
+   },
+   {
+    "endIndex": 9890,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 9890,
+       "startIndex": 9734,
+       "textRun": {
+        "content": "We wanted to create a brand and editorial design that balanced scientific accuracy with human expression, reinforcing both credibility and approachability.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 9734
+   },
+   {
+    "endIndex": 10080,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 10080,
+       "startIndex": 9890,
+       "textRun": {
+        "content": "We wanted to choose the right typography. No matter how thoughtful the layout or how polished the interactions and imagery, if the typography of a site fails, the entire design falls apart.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 9890
+   },
+   {
+    "endIndex": 10092,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 10092,
+       "startIndex": 10080,
+       "textRun": {
+        "content": "Resolution \n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.sgkqv2qemhxh",
+      "namedStyleType": "HEADING_3",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 10080
+   },
+   {
+    "endIndex": 10097,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 10097,
+       "startIndex": 10092,
+       "textRun": {
+        "content": "Logo\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.xhkn30dqqfka",
+      "namedStyleType": "HEADING_4"
+     }
+    },
+    "startIndex": 10092
+   },
+   {
+    "endIndex": 10472,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 10472,
+       "startIndex": 10097,
+       "textRun": {
+        "content": "The logo originated from one of Maria’s figurative illustrations, a full-body illustration featuring intricate, delicate line work that conveyed her form. Early design studies quickly revealed a challenge: when scaled down to fit a 60px-tall navigation bar on a mobile device—especially on older, low-resolution screens—the fine details blurred into an unrecognizable shape.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 10097
+   },
+   {
+    "endIndex": 10707,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 10707,
+       "startIndex": 10472,
+       "textRun": {
+        "content": "To solve this, we cropped the image to focus on the pussy. This approach preserved the figurative essence of Maria’s work while simplifying the design into a graphic mark that maintained its integrity across various sizes and devices.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 10472
+   },
+   {
+    "endIndex": 10738,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 10738,
+       "startIndex": 10707,
+       "textRun": {
+        "content": "[image: pasted-image-3312.png]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 10707
+   },
+   {
+    "endIndex": 10769,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 10769,
+       "startIndex": 10738,
+       "textRun": {
+        "content": "[image: pasted-image-3404.png]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 10738
+   },
+   {
+    "endIndex": 10783,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 10783,
+       "startIndex": 10769,
+       "textRun": {
+        "content": "Art Direction\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.n0qpl56ou4rq",
+      "namedStyleType": "HEADING_4"
+     }
+    },
+    "startIndex": 10769
+   },
+   {
+    "endIndex": 11152,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 11152,
+       "startIndex": 10783,
+       "textRun": {
+        "content": "One of the most distinctive aspects of Pussypedia’s art direction is its exclusive use of illustrations. This approach bridges the arts and sciences while giving the publication a uniquely recognizable, joyful aesthetic. Anticipating collaborations with multiple illustrators, each with their own style, we developed a 2-rule guideline to maintain visual consistency: \n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 10783
+   },
+   {
+    "endIndex": 11190,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.aee63bga6lgl",
+      "textStyle": {}
+     },
+     "elements": [
+      {
+       "endIndex": 11190,
+       "startIndex": 11152,
+       "textRun": {
+        "content": "Render all linework in black or white\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 11152
+   },
+   {
+    "endIndex": 11245,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.aee63bga6lgl",
+      "textStyle": {}
+     },
+     "elements": [
+      {
+       "endIndex": 11245,
+       "startIndex": 11190,
+       "textRun": {
+        "content": "Flood fields of color with a limited palette of pinks \n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 11190
+   },
+   {
+    "endIndex": 11434,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 11434,
+       "startIndex": 11245,
+       "textRun": {
+        "content": "This system ensures that every illustration, regardless of its creator, shares a cohesive look and feel—connecting articles, reinforcing the brand, and creating a seamless visual identity.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 11245
+   },
+   {
+    "endIndex": 11475,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 11475,
+       "startIndex": 11434,
+       "textRun": {
+        "content": "[image: margarita-fedorova-bv-10978.jpg]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 11434
+   },
+   {
+    "endIndex": 11486,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 11486,
+       "startIndex": 11475,
+       "textRun": {
+        "content": "Typography\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.6qxjlpgensn7",
+      "namedStyleType": "HEADING_4"
+     }
+    },
+    "startIndex": 11475
+   },
+   {
+    "endIndex": 11522,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 11522,
+       "startIndex": 11486,
+       "textRun": {
+        "content": "[image: waterfall-ver-1-0-3580.png]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 11486
+   },
+   {
+    "endIndex": 11916,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 11916,
+       "startIndex": 11522,
+       "textRun": {
+        "content": "We chose Plain by the Swiss type foundry Optimo, known for its contemporary yet timeless fonts. While rooted in geometric rationality, Plain subtly breaks from strict mathematical precision, giving it an idiosyncratic, human feel. It was the perfect choice to balance the authority of peer-reviewed medical information with the expressive, figurative illustrations that accompany each article.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 11522
+   },
+   {
+    "endIndex": 12385,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 12385,
+       "startIndex": 11916,
+       "textRun": {
+        "content": "For running copy, we paired Plain with Leitura News from DSType. Designed specifically for news typography, Leitura News is a highly legible serif that keeps long passages of text sharp and easy to read, even at small sizes. Despite being created by different foundries, Plain and Leitura News share strikingly similar proportions—most notably, their nearly identical x-heights—making them an ideal pairing for online publishing, where text often appears side by side.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 11916
+   },
+   {
+    "endIndex": 12406,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 12406,
+       "startIndex": 12385,
+       "textRun": {
+        "content": "Audience Development\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.tlfup4kxhrbh",
+      "namedStyleType": "HEADING_2",
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 12385
+   },
+   {
+    "endIndex": 12430,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 12430,
+       "startIndex": 12406,
+       "textRun": {
+        "content": "[image: maria-3684.jpg]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 12406
+   },
+   {
+    "endIndex": 12454,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 12454,
+       "startIndex": 12430,
+       "textRun": {
+        "content": "[image: focus-3692.jpg]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 12430
+   },
+   {
+    "endIndex": 12478,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 12478,
+       "startIndex": 12454,
+       "textRun": {
+        "content": "[image: insta-3676.jpg]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 12454
+   },
+   {
+    "endIndex": 12507,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 12507,
+       "startIndex": 12478,
+       "textRun": {
+        "content": "[image: totebag-02-3717.jpg]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 12478
+   },
+   {
+    "endIndex": 12539,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 12539,
+       "startIndex": 12507,
+       "textRun": {
+        "content": "[image: pioneer-works-3635.jpg]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 12507
+   },
+   {
+    "endIndex": 12552,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 12552,
+       "startIndex": 12539,
+       "textRun": {
+        "content": "Complication\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.33y12cmq6w8t",
+      "namedStyleType": "HEADING_3",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 12539
+   },
+   {
+    "endIndex": 12737,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 12737,
+       "startIndex": 12552,
+       "textRun": {
+        "content": "None of the creators had substantial social media followings. We were going to create an editorial platform from thin air, so we would need a big effort to get it in front of eyeballs.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 12552
+   },
+   {
+    "endIndex": 12748,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 12748,
+       "startIndex": 12737,
+       "textRun": {
+        "content": "Resolution\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.fwyr4pacfc69",
+      "namedStyleType": "HEADING_3",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 12737
+   },
+   {
+    "endIndex": 12885,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 12885,
+       "startIndex": 12748,
+       "textRun": {
+        "content": "Leveraging the audience we had created through our Kickstarter and our personal networks, we staged a massive community outreach effort.\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 12748
+   },
+   {
+    "endIndex": 13079,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.654jojx20nlt",
+      "textStyle": {}
+     },
+     "elements": [
+      {
+       "endIndex": 13079,
+       "startIndex": 12885,
+       "textRun": {
+        "content": "PR Push: We did a massive round of PR, sending a press pack to hundreds of publications before launch with tailored emails pitching different aspects of the story depending on the publication. \n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 12885
+   },
+   {
+    "endIndex": 13184,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.654jojx20nlt",
+      "textStyle": {}
+     },
+     "elements": [
+      {
+       "endIndex": 13184,
+       "startIndex": 13079,
+       "textRun": {
+        "content": "Social Media Strategy: We created a launch campaign with graphics, sample content, and animated videos. \n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 13079
+   },
+   {
+    "endIndex": 13392,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.654jojx20nlt",
+      "textStyle": {}
+     },
+     "elements": [
+      {
+       "endIndex": 13392,
+       "startIndex": 13184,
+       "textRun": {
+        "content": "Events: We threw launch parties in Mexico City and in Chicago, partnering with big acts like Sarah Sherman of SNL, Finome, Luisa Almaguer, and Las Musas Sonideras. Both events garnered local press coverage. \n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 13184
+   },
+   {
+    "endIndex": 13520,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.654jojx20nlt",
+      "textStyle": {}
+     },
+     "elements": [
+      {
+       "endIndex": 13520,
+       "startIndex": 13392,
+       "textRun": {
+        "content": "Strategic Partnerships: We partnered again with brands, organizations, influencers, and media outlets to publicize the launch. \n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 13392
+   },
+   {
+    "endIndex": 13740,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.654jojx20nlt",
+      "textStyle": {}
+     },
+     "elements": [
+      {
+       "endIndex": 13740,
+       "startIndex": 13520,
+       "textRun": {
+        "content": "Community Relations: We built and leveraged a global network of writers, translators, editors, medical professionals, illustrators, and fact checkers who we also encouraged to help share Pussypedia with their networks. \n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 13520
+   },
+   {
+    "endIndex": 13748,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 13748,
+       "startIndex": 13740,
+       "textRun": {
+        "content": "Results\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.fnphzo7nd7zc",
+      "namedStyleType": "HEADING_3"
+     }
+    },
+    "startIndex": 13740
+   },
+   {
+    "endIndex": 13768,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.mpfpwnwxac3j",
+      "textStyle": {}
+     },
+     "elements": [
+      {
+       "endIndex": 13768,
+       "startIndex": 13748,
+       "textRun": {
+        "content": "Instagram Followers\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 13748
+   },
+   {
+    "endIndex": 13772,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.mpfpwnwxac3j",
+      "nestingLevel": 1,
+      "textStyle": {}
+     },
+     "elements": [
+      {
+       "endIndex": 13772,
+       "startIndex": 13768,
+       "textRun": {
+        "content": "28K\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 54,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 72,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT"
+     }
+    },
+    "startIndex": 13768
+   },
+   {
+    "endIndex": 13811,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.mpfpwnwxac3j",
+      "textStyle": {}
+     },
+     "elements": [
+      {
+       "endIndex": 13811,
+       "startIndex": 13772,
+       "textRun": {
+        "content": "Pieces of International Press Coverage\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 13772
+   },
+   {
+    "endIndex": 13815,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.mpfpwnwxac3j",
+      "nestingLevel": 1,
+      "textStyle": {}
+     },
+     "elements": [
+      {
+       "endIndex": 13815,
+       "startIndex": 13811,
+       "textRun": {
+        "content": "160\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 54,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 72,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 13811
+   },
+   {
+    "endIndex": 13826,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.mpfpwnwxac3j",
+      "textStyle": {}
+     },
+     "elements": [
+      {
+       "endIndex": 13826,
+       "startIndex": 13815,
+       "textRun": {
+        "content": "Page Views\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 13815
+   },
+   {
+    "endIndex": 13829,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.mpfpwnwxac3j",
+      "nestingLevel": 1,
+      "textStyle": {}
+     },
+     "elements": [
+      {
+       "endIndex": 13829,
+       "startIndex": 13826,
+       "textRun": {
+        "content": "2M\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 54,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 72,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 13826
+   },
+   {
+    "endIndex": 13838,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.mpfpwnwxac3j",
+      "textStyle": {}
+     },
+     "elements": [
+      {
+       "endIndex": 13838,
+       "startIndex": 13829,
+       "textRun": {
+        "content": "Visitors\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 13829
+   },
+   {
+    "endIndex": 13844,
+    "paragraph": {
+     "bullet": {
+      "listId": "kix.mpfpwnwxac3j",
+      "nestingLevel": 1,
+      "textStyle": {}
+     },
+     "elements": [
+      {
+       "endIndex": 13844,
+       "startIndex": 13838,
+       "textRun": {
+        "content": "1.25M\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "indentFirstLine": {
+       "magnitude": 54,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 72,
+       "unit": "PT"
+      },
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 13838
+   },
+   {
+    "endIndex": 13845,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 13845,
+       "startIndex": 13844,
+       "textRun": {
+        "content": "\n",
+        "textStyle": {
+         "italic": true
+        }
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 13844
+   },
+   {
+    "endIndex": 13859,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 13846,
+       "startIndex": 13845,
+       "textRun": {
+        "content": "[",
+        "textStyle": {}
+       }
+      },
+      {
+       "endIndex": 13859,
+       "startIndex": 13846,
+       "textRun": {
+        "content": "Milk Makeup]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.1zytkuq7lah0",
+      "namedStyleType": "HEADING_1",
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 13845
+   },
+   {
+    "endIndex": 13869,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 13869,
+       "startIndex": 13859,
+       "textRun": {
+        "content": "[Section]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.2iomh0w9voev",
+      "namedStyleType": "HEADING_2",
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 13859
+   },
+   {
+    "endIndex": 13882,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 13882,
+       "startIndex": 13869,
+       "textRun": {
+        "content": "Lorem ipsum.\n",
+        "textStyle": {
+         "italic": true
+        }
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 13869
+   },
+   {
+    "endIndex": 13909,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 13883,
+       "startIndex": 13882,
+       "textRun": {
+        "content": "[",
+        "textStyle": {}
+       }
+      },
+      {
+       "endIndex": 13909,
+       "startIndex": 13883,
+       "textRun": {
+        "content": "Art Institute of Chicago]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.jvl48jc0mbgv",
+      "namedStyleType": "HEADING_1",
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 13882
+   },
+   {
+    "endIndex": 13919,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 13919,
+       "startIndex": 13909,
+       "textRun": {
+        "content": "[Section]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "headingId": "h.3qzcwxow76r5",
+      "namedStyleType": "HEADING_2",
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 13909
+   },
+   {
+    "endIndex": 13932,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 13932,
+       "startIndex": 13919,
+       "textRun": {
+        "content": "Lorem ipsum.\n",
+        "textStyle": {
+         "italic": true
+        }
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 13919
+   },
+   {
+    "endIndex": 13940,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 13933,
+       "startIndex": 13932,
+       "textRun": {
+        "content": "[",
+        "textStyle": {}
+       }
+      },
+      {
+       "endIndex": 13940,
+       "startIndex": 13933,
+       "textRun": {
+        "content": "About]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "HEADING_1",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 13932
+   },
+   {
+    "endIndex": 13949,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 13949,
+       "startIndex": 13940,
+       "textRun": {
+        "content": "[Studio]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "HEADING_2",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 13940
+   },
+   {
+    "endIndex": 14020,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 14020,
+       "startIndex": 13949,
+       "textRun": {
+        "content": "Who OFA is, how the studio started, and what it believes about design.\n",
+        "textStyle": {
+         "italic": true
+        }
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceBelow": {
+       "magnitude": 11.25,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 13949
+   },
+   {
+    "endIndex": 14031,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 14021,
+       "startIndex": 14020,
+       "textRun": {
+        "content": "[",
+        "textStyle": {}
+       }
+      },
+      {
+       "endIndex": 14031,
+       "startIndex": 14021,
+       "textRun": {
+        "content": "Approach]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "HEADING_2",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 14020
+   },
+   {
+    "endIndex": 14103,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 14103,
+       "startIndex": 14031,
+       "textRun": {
+        "content": "How the studio works with clients, from first conversation to delivery.\n",
+        "textStyle": {
+         "italic": true
+        }
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceBelow": {
+       "magnitude": 12,
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 14031
+   },
+   {
+    "endIndex": 14113,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 14104,
+       "startIndex": 14103,
+       "textRun": {
+        "content": "[",
+        "textStyle": {}
+       }
+      },
+      {
+       "endIndex": 14113,
+       "startIndex": 14104,
+       "textRun": {
+        "content": "Contact]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "HEADING_1",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 14103
+   },
+   {
+    "endIndex": 14128,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 14128,
+       "startIndex": 14113,
+       "textRun": {
+        "content": "[Get in touch]\n",
+        "textStyle": {}
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "HEADING_2",
+      "shading": {
+       "backgroundColor": {}
+      },
+      "spaceAbove": {
+       "unit": "PT"
+      }
+     }
+    },
+    "startIndex": 14113
+   },
+   {
+    "endIndex": 14242,
+    "paragraph": {
+     "elements": [
+      {
+       "endIndex": 14242,
+       "startIndex": 14128,
+       "textRun": {
+        "content": "A short invitation to get in touch, plus the email address and any other contact details or social links to show.\n",
+        "textStyle": {
+         "italic": true
+        }
+       }
+      }
+     ],
+     "paragraphStyle": {
+      "borderBetween": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderBottom": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderLeft": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderRight": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "borderTop": {
+       "color": {},
+       "dashStyle": "SOLID",
+       "padding": {
+        "unit": "PT"
+       },
+       "width": {
+        "unit": "PT"
+       }
+      },
+      "direction": "LEFT_TO_RIGHT",
+      "namedStyleType": "NORMAL_TEXT",
+      "shading": {
+       "backgroundColor": {}
+      }
+     }
+    },
+    "startIndex": 14128
+   }
+  ]
+ },
+ "footnotes": {
+  "kix.jmh8l8g6qi4q": {
+   "content": [
+    {
+     "endIndex": 27,
+     "paragraph": {
+      "elements": [
+       {
+        "endIndex": 27,
+        "textRun": {
+         "content": " Exceeding 264.60% of goal\n",
+         "textStyle": {
+          "fontSize": {
+           "magnitude": 10,
+           "unit": "PT"
+          }
+         }
+        }
+       }
+      ],
+      "paragraphStyle": {
+       "direction": "LEFT_TO_RIGHT",
+       "namedStyleType": "NORMAL_TEXT"
+      }
+     }
+    }
+   ],
+   "footnoteId": "kix.jmh8l8g6qi4q"
+  }
+ },
+ "lists": {
+  "kix.5b7umpvyt5c1": {
+   "listProperties": {
+    "nestingLevels": [
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%0",
+      "glyphSymbol": "●",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%1",
+      "glyphSymbol": "○",
+      "indentFirstLine": {
+       "magnitude": 54,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 72,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%2",
+      "glyphSymbol": "■",
+      "indentFirstLine": {
+       "magnitude": 90,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 108,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%3",
+      "glyphSymbol": "●",
+      "indentFirstLine": {
+       "magnitude": 126,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 144,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%4",
+      "glyphSymbol": "○",
+      "indentFirstLine": {
+       "magnitude": 162,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 180,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%5",
+      "glyphSymbol": "■",
+      "indentFirstLine": {
+       "magnitude": 198,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 216,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%6",
+      "glyphSymbol": "●",
+      "indentFirstLine": {
+       "magnitude": 234,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 252,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%7",
+      "glyphSymbol": "○",
+      "indentFirstLine": {
+       "magnitude": 270,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 288,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%8",
+      "glyphSymbol": "■",
+      "indentFirstLine": {
+       "magnitude": 306,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 324,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     }
+    ]
+   }
+  },
+  "kix.654jojx20nlt": {
+   "listProperties": {
+    "nestingLevels": [
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%0",
+      "glyphSymbol": "●",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%1",
+      "glyphSymbol": "○",
+      "indentFirstLine": {
+       "magnitude": 54,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 72,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%2",
+      "glyphSymbol": "■",
+      "indentFirstLine": {
+       "magnitude": 90,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 108,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%3",
+      "glyphSymbol": "●",
+      "indentFirstLine": {
+       "magnitude": 126,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 144,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%4",
+      "glyphSymbol": "○",
+      "indentFirstLine": {
+       "magnitude": 162,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 180,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%5",
+      "glyphSymbol": "■",
+      "indentFirstLine": {
+       "magnitude": 198,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 216,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%6",
+      "glyphSymbol": "●",
+      "indentFirstLine": {
+       "magnitude": 234,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 252,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%7",
+      "glyphSymbol": "○",
+      "indentFirstLine": {
+       "magnitude": 270,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 288,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%8",
+      "glyphSymbol": "■",
+      "indentFirstLine": {
+       "magnitude": 306,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 324,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     }
+    ]
+   }
+  },
+  "kix.aee63bga6lgl": {
+   "listProperties": {
+    "nestingLevels": [
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%0",
+      "glyphSymbol": "●",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%1",
+      "glyphSymbol": "○",
+      "indentFirstLine": {
+       "magnitude": 54,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 72,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%2",
+      "glyphSymbol": "■",
+      "indentFirstLine": {
+       "magnitude": 90,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 108,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%3",
+      "glyphSymbol": "●",
+      "indentFirstLine": {
+       "magnitude": 126,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 144,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%4",
+      "glyphSymbol": "○",
+      "indentFirstLine": {
+       "magnitude": 162,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 180,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%5",
+      "glyphSymbol": "■",
+      "indentFirstLine": {
+       "magnitude": 198,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 216,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%6",
+      "glyphSymbol": "●",
+      "indentFirstLine": {
+       "magnitude": 234,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 252,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%7",
+      "glyphSymbol": "○",
+      "indentFirstLine": {
+       "magnitude": 270,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 288,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%8",
+      "glyphSymbol": "■",
+      "indentFirstLine": {
+       "magnitude": 306,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 324,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     }
+    ]
+   }
+  },
+  "kix.mpfpwnwxac3j": {
+   "listProperties": {
+    "nestingLevels": [
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%0",
+      "glyphSymbol": "●",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%1",
+      "glyphSymbol": "○",
+      "indentFirstLine": {
+       "magnitude": 54,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 72,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%2",
+      "glyphSymbol": "■",
+      "indentFirstLine": {
+       "magnitude": 90,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 108,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%3",
+      "glyphSymbol": "●",
+      "indentFirstLine": {
+       "magnitude": 126,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 144,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%4",
+      "glyphSymbol": "○",
+      "indentFirstLine": {
+       "magnitude": 162,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 180,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%5",
+      "glyphSymbol": "■",
+      "indentFirstLine": {
+       "magnitude": 198,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 216,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%6",
+      "glyphSymbol": "●",
+      "indentFirstLine": {
+       "magnitude": 234,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 252,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%7",
+      "glyphSymbol": "○",
+      "indentFirstLine": {
+       "magnitude": 270,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 288,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%8",
+      "glyphSymbol": "■",
+      "indentFirstLine": {
+       "magnitude": 306,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 324,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     }
+    ]
+   }
+  },
+  "kix.vrgpsu2ow3b3": {
+   "listProperties": {
+    "nestingLevels": [
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%0",
+      "glyphSymbol": "●",
+      "indentFirstLine": {
+       "magnitude": 18,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 36,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%1",
+      "glyphSymbol": "○",
+      "indentFirstLine": {
+       "magnitude": 54,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 72,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%2",
+      "glyphSymbol": "■",
+      "indentFirstLine": {
+       "magnitude": 90,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 108,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%3",
+      "glyphSymbol": "●",
+      "indentFirstLine": {
+       "magnitude": 126,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 144,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%4",
+      "glyphSymbol": "○",
+      "indentFirstLine": {
+       "magnitude": 162,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 180,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%5",
+      "glyphSymbol": "■",
+      "indentFirstLine": {
+       "magnitude": 198,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 216,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%6",
+      "glyphSymbol": "●",
+      "indentFirstLine": {
+       "magnitude": 234,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 252,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%7",
+      "glyphSymbol": "○",
+      "indentFirstLine": {
+       "magnitude": 270,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 288,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     },
+     {
+      "bulletAlignment": "START",
+      "glyphFormat": "%8",
+      "glyphSymbol": "■",
+      "indentFirstLine": {
+       "magnitude": 306,
+       "unit": "PT"
+      },
+      "indentStart": {
+       "magnitude": 324,
+       "unit": "PT"
+      },
+      "startNumber": 1,
+      "textStyle": {
+       "underline": false
+      }
+     }
+    ]
+   }
+  }
+ }
+}
